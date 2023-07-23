@@ -1,0 +1,15 @@
+/home/erikamaker/dotnet/CalculatorApp/bin/Debug/net7.0/CalculatorApp
+/home/erikamaker/dotnet/CalculatorApp/bin/Debug/net7.0/CalculatorApp.deps.json
+/home/erikamaker/dotnet/CalculatorApp/bin/Debug/net7.0/CalculatorApp.runtimeconfig.json
+/home/erikamaker/dotnet/CalculatorApp/bin/Debug/net7.0/CalculatorApp.dll
+/home/erikamaker/dotnet/CalculatorApp/bin/Debug/net7.0/CalculatorApp.pdb
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.AssemblyReference.cache
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfoInputs.cache
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfo.cs
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.dll
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/refint/CalculatorApp.dll
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.pdb
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/CalculatorApp.genruntimeconfig.cache
+/home/erikamaker/dotnet/CalculatorApp/obj/Debug/net7.0/ref/CalculatorApp.dll
