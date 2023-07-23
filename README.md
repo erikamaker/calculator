@@ -1,4 +1,4 @@
-# calculator
+# Basic C# Calculator (Nothin' Fancy) 
 
 Basic calculator written in C# to build foundational familiarity with the language. 
 
